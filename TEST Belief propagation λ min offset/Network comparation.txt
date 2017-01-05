@@ -1,0 +1,18 @@
+test    --- test_v2
+
+total :10000000
+different :3332161  33%
+same :6667839	    66%
+
+
+total : 10000000
+
+not same       : 3333025
+same 	       : 6666975
+sameandcorrect : 5714751
+
+wrong_v2 	: 1427711
+correct_v2	: 8572289
+
+correct_v1 	: 5714751
+wrong_v1	: 4285249
